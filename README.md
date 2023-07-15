@@ -20,7 +20,7 @@ Description  | Links
 ------------- | -------------
 Link to my repo  | [Habler's Object Detector](https://github.com/Habler-code/YOLO5-Inference/tree/main)
 Medium Post  | [YOLO Explained](https://medium.com/analytics-vidhya/yolo-explained-5b6f4564f31)
-Paper | [You Onky Look Once](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html)
+Paper | [You Only Look Once](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html)
 
 
 
