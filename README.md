@@ -23,4 +23,9 @@ Medium Post  | [YOLO Explained](https://medium.com/analytics-vidhya/yolo-explain
 Paper | [You Only Look Once](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html)
 
 
+# Time Series: #
+Stock Price Prediction using LSTM and Yahoo finance, Keras (Tensorflow backend):
+Description  | Links
+------------- | -------------
+Link to my repo  | [Habler's Stock Predictor](https://github.com/Habler-code/Stock_Predictor)
 
