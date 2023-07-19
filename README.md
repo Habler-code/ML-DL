@@ -31,7 +31,7 @@ Medium Post  | [A Comprehensive Guide to Siamese Neural Networks](https://medium
 Paper | [Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
 
 
-# Time Series: #
+# Time Series Predictions: #
 Stock Price Prediction using LSTM and Yahoo finance, Keras (Tensorflow backend):
 Description  | Links
 ------------- | -------------
