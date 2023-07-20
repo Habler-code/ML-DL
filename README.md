@@ -7,6 +7,13 @@ Description  | Links
 ------------- | -------------
 Link to my repo  | [Habler's sklearn experiments](https://github.com/Habler-code/ML-scikit-learn)
 
+
+# Neural Networks - Basics: #
+Implementation of Forward and Backward propagation:
+Description  | Links
+------------- | -------------
+Link to my repo  | [Habler's Backprop](https://github.com/Habler-code/forward_backward_propagation-/blob/main/Forward_Backward_Prop.ipynb)
+
 # Object Tracking: #
 
 Object Tracker using OpenCV
