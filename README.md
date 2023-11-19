@@ -45,10 +45,16 @@ Description  | Links
 Link to my repo  | [Habler's Stock Predictor](https://github.com/Habler-code/Stock_Predictor)
 
 
+
 Lyrics generation using LSTMs and Word2Vec:
 Description  | Links
 ------------- | -------------
 Link to my repo  | [Habler's Lyrics Generation](https://github.com/Habler-code/Lyrics_Generation/tree/main)
 
+
+Sentiment-Analysis and Text-Generation using the HuggingFace pipelines:
+Description  | Links
+------------- | -------------
+Link to my repo  | [Habler's HuggingFace Playground](https://github.com/Habler-code/HuggingFace_Playground)
 
 
